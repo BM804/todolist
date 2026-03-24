@@ -1,3 +1,5 @@
+📌 To-Do List CLI Application (Python)
+
 A simple and interactive Command-Line To-Do List Application built using Python. This project helps users manage daily tasks efficiently while demonstrating basic programming concepts like CRUD operations.
 
 🚀 Features
@@ -17,11 +19,11 @@ Install Python (if not already installed)
 
 Clone this repository:
 
-git clone https://github.com/your-username/todo-cli-app.git
+git clone https://github.com/BM804/todolist.git
 
 Navigate to the folder:
 
-cd todo-cli-app
+cd todolist
 
 Run the program:
 
